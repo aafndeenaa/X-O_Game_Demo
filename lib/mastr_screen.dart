@@ -1,4 +1,3 @@
-// ignore: unnecessary_import
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:xo_game/game_logic.dart';
